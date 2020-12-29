@@ -22,6 +22,8 @@ public class HelloController {
     public void hello02(){
         System.out.println("测试skt的");
         System.out.println("测试skt的01");
+
+        System.out.println("...................12132");
     }
 
 }
