@@ -9,6 +9,7 @@ class SpringBoot01HelloworldQuickApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("woshikwlkwl");
+        System.out.println("测试第二次提交到github");
     }
 
 }
