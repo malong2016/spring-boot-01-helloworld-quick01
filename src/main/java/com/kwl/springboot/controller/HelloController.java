@@ -28,8 +28,8 @@ public class HelloController {
         System.out.println("有冲突2吗");
         System.out.println("有冲突2吗,idea");
         System.out.println("有冲突2红红火火恍恍惚惚吗,idea");
-        System.out.println("idea 31行");
 
+System.out.println("32行,github");
 
 
 
