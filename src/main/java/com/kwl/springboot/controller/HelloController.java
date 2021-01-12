@@ -41,6 +41,18 @@ System.out.println("34行,github");
 
     public static void main(String[] args) {
         //测试github和idea之间的交互
+        System.out.println("idea修改区");
+        System.out.println("github修改区");
+
+
+
+
+
+
+
+
+
+
     }
 
 }
