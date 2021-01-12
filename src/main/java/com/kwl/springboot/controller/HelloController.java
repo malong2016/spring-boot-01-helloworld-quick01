@@ -38,4 +38,9 @@ System.out.println("34行,github");
         System.out.println("ideahhhhhhhhhhhhhhhhhh");
     }
 
+
+    public static void main(String[] args) {
+        //测试github和idea之间的交互
+    }
+
 }
