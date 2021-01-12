@@ -24,6 +24,7 @@ public class HelloController {
         System.out.println("测试skt的01");
         //jhklhnkjhk
         //测试代码冲突01,我是idea
+        //测试合并01,我是github
     }
 
 }
