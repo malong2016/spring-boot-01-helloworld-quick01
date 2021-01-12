@@ -20,22 +20,7 @@ public class HelloController {
     @ResponseBody
     @RequestMapping("/skt")
     public void hello02(){
-        System.out.println("测试skt的");
-        System.out.println("测试skt的01");
-        //jhklhnkjhk
-        //测试代码冲突01,我是idea
-        //测试合并01,我是,我阿里测试年,github
-        System.out.println("有冲突2吗,采光好地方就是空间分开");
-        System.out.println("有冲突2吗,idea 哈哈哈哈哈哈哈哈哈哈或或或或");
-        System.out.println("有冲突2红红火火恍恍惚惚吗,idea");
-
-System.out.println("32行,github");
-System.out.println("33行,idea");
-
-System.out.println("34行,github");
-        System.out.println("35行,idea");
-
-        System.out.println("ideahhhhhhhhhhhhhhhhhh");
+   //我删除了很多文件夹
     }
 
 
