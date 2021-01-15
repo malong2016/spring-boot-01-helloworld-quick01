@@ -16,7 +16,7 @@ public class HelloController {
 
 
 
-    //如果是单独的RequestMapping不能设置为void,一定要页面跳转hhhskt
+    //如果是单独的RequestMapping不能设置为void,一定要页面跳转hhhrng
     @ResponseBody
     @RequestMapping("/skt")
     public void hello02(){
