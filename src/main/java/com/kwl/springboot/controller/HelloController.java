@@ -15,9 +15,5 @@ public class HelloController {
         System.out.println("我和源文件一样01");
         System.out.println("我和源文件一样02");
         System.out.println("我和源文件一样03");
-
-
-
-
     }
 }
