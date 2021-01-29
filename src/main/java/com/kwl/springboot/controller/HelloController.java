@@ -13,5 +13,6 @@ public class HelloController {
         //测试github,同时更新文件,会不会二选一
         System.out.println("我是傻逼");
         System.out.println("我和源文件一样01");
+        System.out.println("我和源文件一样02");
     }
 }
