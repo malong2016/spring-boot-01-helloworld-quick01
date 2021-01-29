@@ -11,6 +11,6 @@ public class HelloController {
 
     public static void main(String[] args) {
         //测试github,同时更新文件,会不会二选一
-
+        System.out.println("我是傻逼");
     }
 }
